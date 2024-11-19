@@ -1,0 +1,9 @@
+# Node.js specific files
+node_modules/
+npm-debug.log
+
+# Environment variables
+.env
+
+# Log files
+*.log
